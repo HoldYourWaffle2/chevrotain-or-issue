@@ -1,0 +1,6 @@
+vendor/
+ignored/
+composer.lock
+node_modules/
+dist/
+*.code-workspace

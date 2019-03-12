@@ -1,0 +1,10 @@
+{
+	"name": "chevrotain-or-issue",
+	"version": "1.0.0",
+	"dependencies": {
+		"chevrotain": "^4.2.0"
+	},
+	"devDependencies": {
+		"typescript": "^3.3.3333"
+	}
+}
